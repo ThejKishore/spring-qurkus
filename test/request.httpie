@@ -1,0 +1,5 @@
+http get localhost:8080/greeting
+
+//
+
+http get localhost:8080/greeting/json

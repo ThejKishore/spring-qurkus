@@ -1,0 +1,11 @@
+greeting:
+  message: "hello"
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-qurkus-demo
+
+    
