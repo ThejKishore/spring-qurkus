@@ -19,6 +19,7 @@ dependencies {
     implementation("io.quarkus:quarkus-kafka-client")
     implementation("io.quarkus:quarkus-spring-scheduled")
     implementation("io.quarkus:quarkus-config-yaml")
+    implementation("io.quarkus:quarkus-smallrye-openapi")
     implementation("io.quarkus:quarkus-spring-web")
     implementation("io.quarkus:quarkus-spring-data-jpa")
     implementation("io.quarkus:quarkus-micrometer")

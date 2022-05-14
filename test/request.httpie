@@ -3,3 +3,6 @@ http get localhost:8080/greeting
 //
 
 http get localhost:8080/greeting/json
+
+//
+http get :8080/q/openapi
